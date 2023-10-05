@@ -54,3 +54,7 @@ label{
     justify-content: center;
     align-items: center;
 }
+
+div{
+    color:red;
+}
